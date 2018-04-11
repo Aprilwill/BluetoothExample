@@ -106,7 +106,6 @@ public class CheckPermission {
 
     public void onRequestPermissionsResult(final Activity activity, int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
 
-        String s="'dd";
 
     }
 }
